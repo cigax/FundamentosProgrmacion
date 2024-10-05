@@ -8,7 +8,7 @@ temp_ciudad={
     "Manta": [random.randint(30,40) for _ in range(4)]
 }
 # Función temperatura_ciudad para calcular las temperaturas aleatorias
-def temperatura_ciudad (tem_ciudad):
+def temperatura_ciudad (temp_ciudad):
 #temperatura_promedio es un dicionario que almacena los datos promedios
     temperatura_promedio={}
 
